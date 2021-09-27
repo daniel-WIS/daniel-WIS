@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @daniel-WIS. I'm a graduate student in molecular biology with a focus on bioinformatics.
 - 👀 I’m interested in data analysis and visualization.
-- 🌱 I’m currently learning python, R and bash scripting.
 
 
 <!---
